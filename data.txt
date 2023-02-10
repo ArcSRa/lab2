@@ -1,0 +1,10 @@
+Smith,Linda,2615.93
+Romero,Georgia,863.93
+Davenport,Darin,1990.52
+Rubio,Alfonso,2815.77
+Wong,Otis,1181.31
+Faulkner,Enrique,1321.13
+Nolan,Marianne,455.36
+Hanna,Thelma,812.47
+Irwin,Mara,2638.90
+Hartman,Rosalie,17301.72
